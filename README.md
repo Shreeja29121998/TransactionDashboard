@@ -1,3 +1,17 @@
+Design an intuitive user interface (UI) using React JS components for login, register
+account balance display, and transaction history.
+
+Utilize state management libraries :
+- Redux for managing application state
+- Manage Exceptions(Error Boundary) ,
+- UI performance(Suspense)
+- API side effects(Saga)
+
+Implement responsive design principles to ensure compatibility across devices and
+screen sizes.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Login Page: Login page where users can securely log in using their credentials.
 
 Register Page: User can register securely
