@@ -6,7 +6,6 @@ import Pagination from "../../components/Pagination";
 let pageSize = 2;
 
 const Table = ({transactionCount}) => {
-  // const dispatch = useDispatch();
   const transactions = useSelector(
     (state) => state.transactions?.logIn?.transactions
   );
