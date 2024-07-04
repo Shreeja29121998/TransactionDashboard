@@ -1,0 +1,14 @@
+import React from 'react';
+import './styles.css'; // Replace with the actual CSS file for your loading screen
+
+
+const LoadingScreen = () => {
+    return (
+      <div className="loading-screen">
+        <div className="loading-spinner"></div>
+      </div>
+    );
+};
+
+export default LoadingScreen;
+

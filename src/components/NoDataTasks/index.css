@@ -1,0 +1,10 @@
+.NoDataTasks-viewRoot {
+  gap: var(--spacing-3);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.NoDataTasks-noDataTaskImg {
+  font-size: 7rem;
+}
